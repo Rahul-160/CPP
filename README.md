@@ -17,7 +17,7 @@ Use this repo for contributing in open source.
 Start solving issues and raise the pull requests and even you can create your own issues.
 If you want to contribute to a project, the simplest way is to:
 
-Find a ISSUE you want to contribute to ->> Fork it
+Find a ISSUE you want to contribute to ->> Fork it(Top right side of this repo)
 
     Clone it to your local system
 
@@ -39,5 +39,5 @@ The implementations/codes which are added/merged in CPP-:
 
 
 
-Happy coding!
+Happy coding and all the best for hacktoberfest!
 
